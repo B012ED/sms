@@ -5,7 +5,7 @@ Free SMS | Online
 
 [![YouTube](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED.json&style=?style=for-the-badge&logo=youtube)](https://youtu.be/vVlLwvxHI0c) 
 
-This is free sms for country +62 
+This is free sms for country code +62 
 
 **how to install and usage:**
 
