@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# SMS
+Free SMS | Online
 
-You can use the [editor on GitHub](https://github.com/B012ED/sms/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![chat-bored](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/chat-B012ED.json&style=?style=for-the-badge&logo=steam)](https://b012ed.github.io/chat.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![YouTube](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED.json&style=?style=for-the-badge&logo=youtube)](https://youtu.be/vVlLwvxHI0c) 
 
-### Markdown
+This is free sms for country +62 
+**how to install and usage:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Termux:**
+* `pkg install python2`
+* `pkg install git`
+* `git clone https://github.com/B012ED/sms`
+* `cd sms`
+* `python2 sms.py`
 
-```markdown
-Syntax highlighted code block
+**Linux:**
+* `apt install python2`
+* `apt install git`
+* `git clone https://github.com/B012ED/sms`
+* `cd sms`
+* `python2 sms.py`
 
-# Header 1
-## Header 2
-### Header 3
+**NOTE:** Don't abuse this app.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/B012ED/sms/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
