@@ -11,14 +11,17 @@ This is free sms for country code +62
 
 **Termux:**
 * `pkg install python2`
-* `pkg install git`
+* `pip2 install requests`
+* `pkg install git`i
 * `git clone https://github.com/B012ED/sms`
 * `cd sms`
 * `python2 sms.py`
 
 **Linux:**
-* `apt install python2`
-* `apt install git`
+* `apt-get install python2`
+* `apt-get install python2-pip`
+* `pip install requests`
+* `apt-get install git`
 * `git clone https://github.com/B012ED/sms`
 * `cd sms`
 * `python2 sms.py`
